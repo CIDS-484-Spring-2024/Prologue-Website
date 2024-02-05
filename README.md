@@ -18,3 +18,5 @@ Progress is a little slow since so many other people are being consulted about t
 and Finley are also talking to the rest of the editing staff and getting their opinions about ideas. 
 
 Video Update Link, featuring god's ugliest url: https://uwrf-my.sharepoint.com/:v:/g/personal/branwyn_walker_my_uwrf_edu/EUsdsL39ZBNAo_J-y4Q1f3YBI_uruhPqnQcFeql6go3-Sw?e=DZpwNU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Also, been trying to push my form example here for like an hour and keep getting denied to our shared repo, so I've posted it to my personal page https://github.com/IsaiahVirus/basicForm right there. It's even there twice since I was trying to figure out if it was broke-broke or just broke to our org page
