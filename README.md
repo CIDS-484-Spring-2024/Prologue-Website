@@ -24,6 +24,8 @@ Another credit I would like to specfically credit is this tutorial https://www.y
 
 Moving forward is the backend stuff, which I feel relatively okay about already. It's mostly taking and storing the original submission, then having the edit history, and finally storing and serving the previous editions. 
 
+I bring you another of god's ugliest links https://uwrf-my.sharepoint.com/:v:/g/personal/branwyn_walker_my_uwrf_edu/EV-U4CKUca5AlVafKtRfh8sBChmtfUZaScW6yEwiM2i87g?e=ae48gk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D but you know what? god loves ugly.
+
 <br><br>
 <b>OLD UPDATES</b> 
 
